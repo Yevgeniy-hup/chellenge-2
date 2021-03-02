@@ -1,0 +1,163 @@
+body {
+  text-align: center;
+  font-family: 'Spartan', sans-serif;
+  font-size: 14px;
+}
+
+img {
+  border-radius: 50%;
+  margin-right: 20px;
+  margin-top: 15px;
+  width: 65px;
+}
+
+p {
+  color: hsl(300, 24%, 96%);
+  line-height: 1.4rem;
+  font-size: 13px;
+  margin-top: 0;
+  margin-right: 20px;
+}
+
+h1 {
+  color: hsl(300, 43%, 22%);
+  font-size: 55px;
+  text-align: left;
+  line-height: normal;
+  margin-bottom: 26px;
+}
+
+h4 {
+  color: hsl(0, 0%, 100%);
+  line-height: 1.4rem;
+}
+
+h5 {
+  position: relative;
+  top: 23px;
+  right: 37px;
+}
+
+span {
+  color: hsl(333, 80%, 67%);
+}
+
+.paragraf {
+  color: hsl(303, 10%, 53%);
+  text-align: left;
+  line-height: 1.7rem;
+}
+
+.colton {
+  display: inline-block;
+  position: relative;
+  bottom: 17px;
+}
+
+.irene {
+  display: inline-block;
+  position: relative;
+  bottom: 17px;
+}
+
+.anne {
+  display: inline-block;
+  position: relative;
+  bottom: 17px;
+}
+
+.box-one {
+  width: 310px;
+  height: 210px;
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  border-radius: 7px;
+  font-size: 14px;
+  text-align: left;
+  padding-left: 20px;
+  position: relative;
+  right: 40px;
+  bottom: 10px;
+}
+
+.box-two {
+  width: 310px;
+  height: 210px;
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  border-radius: 7px;
+  font-size: 14px;
+  text-align: left;
+  padding-left: 20px;
+  position: relative;
+  top: 10px;
+}
+
+.box-three {
+  width: 310px;
+  height: 210px;
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  border-radius: 7px;
+  font-size: 14px;
+  text-align: left;
+  padding-left: 20px;
+  position: relative;
+  left: 40px;
+  top: 30px;
+}
+
+.star {
+  color: hsl(300, 43%, 22%);
+  text-align: center;
+  font-size: 16px;
+  display: inline-block;
+  position: relative;
+  bottom: 45px;
+}
+
+.Reviews {
+  width: 400px;
+  height: 60px;
+  background-color: hsl(303, 10%, 53%);
+  border-radius: 7px;
+  position: relative;
+  bottom: 30px;
+}
+
+.Report {
+  width: 400px;
+  height: 60px;
+  background-color: hsl(303, 10%, 53%);
+  border-radius: 7px;
+  margin-left: 40px;
+  position: relative;
+  bottom: 30px;
+}
+
+.BestTech {
+  width: 400px;
+  height: 60px;
+  background-color: hsl(303, 10%, 53%);
+  border-radius: 7px;
+  margin-left: 80px;
+  position: relative;
+  bottom: 30px;
+}
+
+.content {
+  width: 450px;
+  height: 250px;
+  display: inline-block;
+  margin-right: 136px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
